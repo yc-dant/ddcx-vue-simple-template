@@ -1,11 +1,4 @@
-<!--
- * @Descripttion: 
- * @Author: 杨晨
- * @Date: 2021-05-30 23:35:12
- * @LastEditors: 杨晨
- * @LastEditTime: 2021-05-30 23:35:46
--->
-# vue-simple-tempalte
+# ddcx-vue-simple-tempalte
 简单模版
 
 ## Project setup
